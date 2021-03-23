@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://pup-paw.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://pup-paw.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-03-23T20:44:03+09:00</updated>
+  <id>https://pup-paw.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">여기는 개발바닥 | </title>
+  
+
+  
+    <subtitle>개발 바닥(O) 개 발바닥(X)</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - 블로그 만들기</title>
+      <link href="https://pup-paw.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그 만들기" />
+      <published>2018-09-28T01:40:00+09:00</published>
+      <updated>2018-09-28T01:40:00+09:00</updated>
+      <id>https://pup-paw.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://pup-paw.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>grr99</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Jekyll" />
+      
+
+      
+        <summary type="html">이 글은 jekyll basic 입니다!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
